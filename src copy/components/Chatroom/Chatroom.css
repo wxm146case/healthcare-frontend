@@ -1,0 +1,45 @@
+.chat-container {
+    position: fixed;
+    width: 80%;
+    height: 65%;
+}
+
+#main-card {
+    height: 100%;
+    width: 80%;
+}
+
+#chat-list {
+    overflow: auto;
+
+    top: 90px;
+    left: 25px;
+    right: 25px;
+    bottom: 120px;
+}
+
+#chat-list-item {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border-radius: 5px;
+    background-color: #E8EAF6;
+}
+
+#chat-list-item-self{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border-radius: 5px;
+    background-color: bisque;
+}
+
+.chat-footer-container {
+    position:fixed;
+    bottom:25px;
+    left:130px;
+    right:20px;
+}
+
+.chat-input {
+    padding-top: 20px;
+    width: 80%;
+}

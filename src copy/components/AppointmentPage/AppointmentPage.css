@@ -1,0 +1,14 @@
+.placeHolder {
+    clear: both;
+    width: 100%;
+    min-height: 1px;
+}
+.contentbox {
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 12px;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    border-top: 6px solid #ccd8ed;
+}

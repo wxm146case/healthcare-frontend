@@ -1,0 +1,17 @@
+.location-head {
+    text-align:center;
+}
+
+.location-sub {
+    text-align:right;
+    color: #0078bf;
+    cursor: pointer;
+}
+
+.google-map {
+    MARGIN-RIGHT: auto; MARGIN-LEFT: auto;
+}
+
+#location-img {
+    MARGIN-RIGHT: auto; MARGIN-LEFT: auto;
+}

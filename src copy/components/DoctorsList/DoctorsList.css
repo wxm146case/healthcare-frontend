@@ -1,0 +1,94 @@
+.list-item-search{
+    line-height: 1.875rem;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    font-family: Source Sans Pro,News Cycle,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: #0078bf;
+    cursor: pointer;
+}
+
+.lede {
+    margin-top: 0!important;
+}
+
+.list-item-search list-pad-bottom {
+    content: "";
+    display: table;
+    clear: both;
+    position: relative;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: .9375rem;
+    padding-bottom: .9375rem;
+}
+.list-item-search__call {
+    font-size: 1.25rem;
+    line-height: 1.875rem;
+    font-weight: 700;
+    color: #0078bf;
+    text-decoration: none;
+    background-color: transparent;
+    box-sizing: inherit;
+    cursor: pointer;
+    -webkit-font-smoothing: antialiased;
+}
+
+.list-item-search__right {
+    box-sizing: inherit;
+    content: "";
+    display: table;
+    clear: both;
+    line-height: 1.6875rem;
+    font-size: 100%;
+    font-family: Source Sans Pro,Lato,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+.list-item-search__image {
+    position: relative;
+    display: block;
+    width: 100px;
+    float: left;
+    line-height: 0;
+    color: #0078bf;
+    text-decoration: none;
+    background-color: transparent;
+    box-sizing: inherit;
+    cursor: pointer;
+}
+
+.list-item-search__left {
+    box-sizing: inherit;
+    display: block;
+}
+
+.list-item-search__heading {
+    font-size: .83rem;
+    line-height: 1.5rem;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    font-family: Source Sans Pro,Lato,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    color: #363636;
+    text-transform: uppercase;
+}
+
+.list-item-search__list {
+    font-size: .9375rem;
+    line-height: 1rem;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    box-sizing: inherit;
+
+}
